@@ -1,4 +1,4 @@
-# 
+# Natif AI Password Strength Checker scripts. Avec apprentissage par renforcement et traitement du langage naturel — optimisé pour des performances maximales.
 
 
 
